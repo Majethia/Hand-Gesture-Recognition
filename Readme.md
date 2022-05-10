@@ -34,9 +34,9 @@ The final product takes input from webcam and gives realtime predictions for the
 
 ## Run this on your own machine:
 - First clone the repository using the following command
-  `git clone https://github.com/Majethia/Hand-Gesture-Recognition`
+  ```git clone https://github.com/Majethia/Hand-Gesture-Recognition```
   or if you dont have git cli, download the zip file and extract in a folder.
 - Next, install the requirements
-  `pip install -r requirements.txt`
+  ```pip install -r requirements.txt```
 - Run the main.py file
-  `python main.py`
+  ```python main.py```
